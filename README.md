@@ -3,6 +3,3 @@ Rebase
 
 main
 main
-
-test
-test
